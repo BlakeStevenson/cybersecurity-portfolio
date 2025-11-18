@@ -1,6 +1,3 @@
-Date: July 23, 2024  
-Entry: #1  
-
 ### Description  
 Recording details of a recent cybersecurity event.
 
